@@ -2,7 +2,7 @@
 
 ## 📘 Context & Motivation
 
-Developed in 2024 as part of an applied AI automation project at **ČD Cargo**, this solution streamlines
+Developed in 2025 as part of an applied AI automation project at **ČD Cargo**, this solution streamlines
 document handling through intelligent workflows — eliminating manual extraction, validation and classification of RID reports.
 
 ---
@@ -88,6 +88,17 @@ validation and data storage.
 - Add **Power BI** dashboard for process analytics.
 
 ---
+
+## 🎥 Demo Video
+Watch how the automation works end-to-end:  
+[▶️ Watch the demo](https://youtu.be/di_E78TTW4k)
+
+---
+
+## 📘 Full Documentation
+📄 [Bachelor Thesis – *Automatizace procesů pomocí Microsoft Power Automate*](https://hdl.handle.net/10195/85703)
+Published in the digital library of University of Pardubice, 2025.  
+The thesis provides a detailed description of the system architecture, AI model training, and process automation design.
 
 ## 👩‍💻 Author  
 **Lada Bilak**  
