@@ -96,8 +96,8 @@ Watch how the automation works end-to-end:
 ---
 
 ## 📘 Full Documentation
-📄 [Bachelor Thesis – *Automatizace procesů pomocí Microsoft Power Automate*](https://hdl.handle.net/10195/85703)
-published in the digital library of University of Pardubice, 2025.  
+📄 [Bachelor Thesis – *Automatizace procesů pomocí Microsoft Power Automate*](https://hdl.handle.net/10195/85703)  
+Published in the digital library of University of Pardubice, 2025.  
 The thesis (written in czech) provides a detailed description of the system architecture, AI model training, and process automation design.
 
 ## 👩‍💻 Author  
