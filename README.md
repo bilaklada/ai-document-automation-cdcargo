@@ -38,7 +38,7 @@ validation and data storage.
 [Reporting Layer (Power BI)]
 
 <p align="center">
-  <img src="assets/architecture_diagram.png" alt="AI Workflow Architecture" width="800"/>
+  <img src="assets/diagram.png" alt="AI Workflow Architecture" width="800"/>
 </p>
 
 ---
