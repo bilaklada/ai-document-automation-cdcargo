@@ -1,14 +1,12 @@
 # 🧠 AI Document Automation for CD Cargo  
 
 ## 📘 Context & Motivation
-
 Developed in 2025 as part of an applied AI automation project at **ČD Cargo**, this solution streamlines
 document handling through intelligent workflows — eliminating manual extraction, validation and classification of RID reports.
 
 ---
 
 ## 🚀 Project Overview
-
 This project demonstrates an **end-to-end AI-driven document automation pipeline** built on the **Microsoft Power Platform**.
 It integrates **AI Builder**, **Power Automate**, **SharePoint**, and **Outlook** into a unified system for document processing,
 validation and data storage.
@@ -16,7 +14,6 @@ validation and data storage.
 ---
 
 ## 💡 Key Features  
-
 - AI Builder–based document classification and field extraction.  
 - Automated routing and approval workflows built in Power Automate.  
 - Centralized SharePoint data management with full audit trail.  
@@ -26,7 +23,6 @@ validation and data storage.
 ---
 
 ## 🧩 System Architecture  
-
 [Outlook Email]  
 ↓  
 [AI Builder – Document Processing]  
@@ -43,8 +39,7 @@ validation and data storage.
 
 ---
 
-### 🧠 Architecture Highlights  
-
+## 🧠 Architecture Highlights  
 - Modular and event-driven Power Automate flows  
 - Separate AI Builder collections for carrier-specific layouts  
 - Dynamic SharePoint integration  
@@ -54,7 +49,6 @@ validation and data storage.
 ---
 
 ## 🧱 Tech Stack  
-
 | Layer | Technology |
 |-------|-------------|
 | **AI & Automation** | Microsoft Power Automate, AI Builder |
@@ -65,7 +59,6 @@ validation and data storage.
 ---
 
 ## ⚙️ Workflow Overview  
-
 1. Outlook email with a PDF attachment triggers the Power Automate flow.  
 2. AI Builder extracts structured data (e.g., RID number, date, carrier, amount).  
 3. Extracted fields are written to a SharePoint list.  
@@ -100,14 +93,10 @@ Watch how the automation works end-to-end:
 Published in the digital library of University of Pardubice, 2025.  
 The thesis (written in czech) provides a detailed description of the system architecture, AI model training, and process automation design.
 
+---
+
 ## 👩‍💻 Author  
 **Lada Bilak**  
 Transport Engineering graduate, focusing on AI & Data Science.  
 📧 lada.bilak1@gmail.com  
 🌐 [GitHub Profile](https://github.com/bilaklada)
-
----
-
-## 📘 About this Repository  
-This repository documents a real-world **AI-driven automation** use case implemented with the Microsoft Power Platform.
-All components are reproducible within enterprise environments and demonstrate how low-code tools can enable intelligent process automation.
