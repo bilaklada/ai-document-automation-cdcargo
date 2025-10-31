@@ -17,11 +17,11 @@ validation and data storage.
 
 ## 💡 Key Features  
 
-- **AI Builder–based document classification** and field extraction.  
-- **Automated routing and approval workflows** built in Power Automate.  
-- **Centralized SharePoint data management** with full audit trail.  
-- **Seamless Outlook integration** for automatic email ingestion.  
-- **Adaptive feedback loops** for model retraining and continuous accuracy improvement.    
+- AI Builder–based document classification and field extraction.  
+- Automated routing and approval workflows built in Power Automate.  
+- Centralized SharePoint data management with full audit trail.  
+- Seamless Outlook integration for automatic email ingestion.  
+- Adaptive feedback loops for model retraining and continuous accuracy improvement.    
 
 ---
 
